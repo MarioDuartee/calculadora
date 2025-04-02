@@ -6,7 +6,7 @@
 
 <h3>🔗 Acesse o Projeto</h3>
 
-<p>Você pode acessar a calculadora através do link: [Calculadora Online](https://marioduartee.github.io/calculadora/)</p>
+Você pode acessar a calculadora através do link: [Calculadora Online](https://marioduartee.github.io/calculadora/)
 
 
 ✨ Funcionalidades
