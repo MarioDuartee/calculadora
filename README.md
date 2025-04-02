@@ -1,12 +1,13 @@
-Calculadora Simples
+<h1 align="center"> Calculadora Simples</h1>
 
 
 
-Uma calculadora online simples e eficiente, desenvolvida com HTML, CSS e JavaScript.
+<p>Uma calculadora online simples e eficiente, desenvolvida com HTML, CSS e JavaScript.</p>
 
-🔗 Acesse o Projeto
+<h3>🔗 Acesse o Projeto</h3>
 
-Você pode acessar a calculadora através do link: Calculadora Online
+<p>Você pode acessar a calculadora através do link: [Calculadora Online](https://marioduartee.github.io/calculadora/)</p>
+
 
 ✨ Funcionalidades
 
